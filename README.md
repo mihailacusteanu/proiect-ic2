@@ -1,4 +1,4 @@
-<h1><center>Proiect IC2</center></h1>
+<h1><center>Inteligenta computationala - proiect semestrul 2</center></h1>
 
 
 #### Studenti:
@@ -12,10 +12,10 @@ Acest proiect este o comparatie intre clasificarea cu MLP si comprimarea datelor
 
 
 
-[Retea MLP cu 3 straturi](https://github.com/mihailacusteanu/proiect-ic2/blob/master/MLP.ipynb)
+[Retea MLP cu 3 straturi](https://nbviewer.jupyter.org/github/mihailacusteanu/proiect-ic2/blob/master/MLP.ipynb)
 
-[Comprimare cu PCA si retea MLP cu 3 straturi](https://github.com/mihailacusteanu/proiect-ic2/blob/master/MLP%20PCA.ipynb)
+[Comprimare cu PCA si retea MLP cu 3 straturi](https://nbviewer.jupyter.org/github/mihailacusteanu/proiect-ic2/blob/master/MLP%20PCA.ipynb)
 
-
+#### Concluzii
 In urma celor 2 experimente se observa ca algoritmul cu PCA reduce semnificativ timpul de antrenare, comprimarea fiind de la 784 de componente la 100 de componente, iar acuratetea pastrandu-se la o valoare destul de ridicata, **97%**, fata de **98-99%** in cazul fara ultilizarea de PCA.
 
